@@ -5,7 +5,7 @@ I'm a Data Analyst based in Bengaluru, India, with 3+ years of professional expe
 
 While working full-time, I completed my Master of Science (M.Sc.) in Data Science from Manipal Academy of Higher Education (MAHE), strengthening my expertise in analytics, machine learning, statistics, and business intelligence.
 
-_
+---
 
 ### About Me
 
@@ -16,7 +16,7 @@ _
 - 📍 Based in Bengaluru, India.
 - 🚀 Interested in Data Analytics, Business Intelligence, Product Analytics, and Analytics Consulting.
 
-_
+---
 
 ### Technical Skills
 
@@ -46,7 +46,7 @@ _
 - Statistical Modeling
 - Natural Language Processing
 
-_
+---
 
 ### Professional Experience
 
@@ -59,7 +59,7 @@ At FindLaw, I work with large-scale digital data products, focusing on:
 - Cross-functional collaboration
 - Business process improvement
 
-_
+---
 
 ### Current Learning Focus
 
@@ -70,7 +70,7 @@ _
 - Predictive Analytics
 - End-to-End Data Projects
 
-_
+---
 
 ### Featured Projects
 
@@ -85,7 +85,7 @@ I am actively building a portfolio of projects covering:
 
 Project repositories will be added here as they are completed.
 
-_
+---
 
 ### Education
 
@@ -95,7 +95,7 @@ Manipal Academy of Higher Education
 ### Bachelor of Engineering (B.E.) – Civil Engineering
 KVG College of Engineering
 
-_
+---
 
 ### Connect With Me
 
