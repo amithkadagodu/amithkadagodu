@@ -1,5 +1,4 @@
 ## Hi, I'm Amith K 👋
-
 ### Data Analyst | SQL | Python | Power BI | MSc Data Science
 
 I'm a Data Analyst based in Bengaluru, India, with 3+ years of professional experience in large-scale data operations and digital product management at FindLaw (Internet Brands).
