@@ -1,6 +1,6 @@
-##Hi, I'm Amith K 👋
+## Hi, I'm Amith K 👋
 
-###Data Analyst | SQL | Python | Power BI | MSc Data Science
+### Data Analyst | SQL | Python | Power BI | MSc Data Science
 
 I'm a Data Analyst based in Bengaluru, India, with 3+ years of professional experience in large-scale data operations and digital product management at FindLaw (Internet Brands).
 
@@ -8,7 +8,7 @@ While working full-time, I completed my Master of Science (M.Sc.) in Data Scienc
 
 _
 
-###About Me
+### About Me
 
 - 📊 Data Analyst with 3+ years of industry experience.
 - 🏢 Currently working at FindLaw (Internet Brands).
@@ -19,16 +19,16 @@ _
 
 _
 
-###Technical Skills
+### Technical Skills
 
-###Programming & Databases
+### Programming & Databases
 
 - Python
 - SQL
 - PostgreSQL
 - MySQL
 
-###Data Analytics
+### Data Analytics
 
 - Data Analysis
 - Statistical Analysis
@@ -36,12 +36,12 @@ _
 - Data Modeling
 - Predictive Analytics
 
-###Data Visualization
+### Data Visualization
 
 - Power BI
 - Dashboard Development
 
-###Machine Learning
+### Machine Learning
 
 - Machine Learning
 - Statistical Modeling
@@ -49,7 +49,7 @@ _
 
 _
 
-###Professional Experience
+### Professional Experience
 
 At FindLaw, I work with large-scale digital data products, focusing on:
 
@@ -62,7 +62,7 @@ At FindLaw, I work with large-scale digital data products, focusing on:
 
 _
 
-###Current Learning Focus
+### Current Learning Focus
 
 - Advanced SQL
 - Machine Learning
@@ -73,7 +73,7 @@ _
 
 _
 
-###Featured Projects
+### Featured Projects
 
 I am actively building a portfolio of projects covering:
 
@@ -88,17 +88,17 @@ Project repositories will be added here as they are completed.
 
 _
 
-###Education
+### Education
 
-###Master of Science (M.Sc.) – Data Science
+### Master of Science (M.Sc.) – Data Science
 Manipal Academy of Higher Education
 
-###Bachelor of Engineering (B.E.) – Civil Engineering
+### Bachelor of Engineering (B.E.) – Civil Engineering
 KVG College of Engineering
 
 _
 
-###Connect With Me
+### Connect With Me
 
 LinkedIn:
 www.linkedin.com/in/amithkadagodu
